@@ -1,6 +1,6 @@
 # Welcome to My Github Page!
 
-<p>Hi there! My name is Xinya Hao. I'm a software engineer. I'm graduated from University of California, Irvine in 2020 with BS in Biological Sciences and BS in Computer Sciences. </p>
+<p>Hi there! My name is Xinya Hao. I'm a software engineer. I graduated from University of California, Irvine in 2020 with BS in Biological Sciences and BS in Computer Sciences. </p>
 <p>Two of my current favorite games playing Genshin Impact and Dead by Daylight. <br>
 I'm also passionate about learning new technologies. Currently looking into Next.js and GraphQL and getting more familiar with AWS. </p>
 
